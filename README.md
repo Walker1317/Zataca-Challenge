@@ -1,6 +1,6 @@
 # zataca_challenge
 
-A new Flutter project.
+Zataca Challenge
 
 ## Getting Started
 
